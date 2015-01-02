@@ -103,6 +103,7 @@ public class ShapefileParser {
 			}
 			finally {
 				iterator.close();
+				dataStore.dispose();
 			}
 
 		}
