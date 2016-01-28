@@ -23,7 +23,7 @@ All contributions are welcome! If you wish to contribute, please create an issue
 ## License
 
 ```
-Copyright 2015 www.delight.im <info@delight.im>
+Copyright (c) delight.im <info@delight.im>
 
 This library is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public
